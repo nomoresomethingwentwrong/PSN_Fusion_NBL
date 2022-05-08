@@ -1,6 +1,4 @@
-# FYP_WULUE
-
-Wu Lue's FYP project
+# PSN_Fuion
 
 ultimate_data_process_in_one_shot produces the feature for training in one shot, however, the input file name need to be updated in the file.
 
